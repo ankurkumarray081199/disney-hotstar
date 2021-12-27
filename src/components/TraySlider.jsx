@@ -37,6 +37,7 @@ const Tray = styled.div`
   margin-top: 50px;
 
   h2 {
+    display: inline-block;
     text-align: left;
     color: #fff;
     margin-bottom: 15px;
