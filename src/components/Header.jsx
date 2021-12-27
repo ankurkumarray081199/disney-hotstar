@@ -153,6 +153,7 @@ const SearchBar = styled.div`
   align-items: center;
   justify-content: space-between;
   border-bottom: 1.4px solid #ffffff99;
+  transition: all 250ms cubic-bezier(0.33, 0.04, 0.63, 0.93);
 `;
 const InputField = styled.div`
   input {
