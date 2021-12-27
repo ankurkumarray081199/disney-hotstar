@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/disney-hotstar/static/css/main.6f8ceb7e.css",
+    "main.js": "/disney-hotstar/static/js/main.f0289bbb.js",
+    "static/media/serial.webp": "/disney-hotstar/static/media/serial.497888d5f6725360def5.webp",
+    "static/media/aarya.webp": "/disney-hotstar/static/media/aarya.cf2bd178e76e955053ba.webp",
+    "static/media/dilB.webp": "/disney-hotstar/static/media/dilB.a1bbd8e9286964ebf507.webp",
+    "static/media/special-ops.webp": "/disney-hotstar/static/media/special-ops.12fa954a2d9dcc6747ea.webp",
+    "static/media/hawkeye.webp": "/disney-hotstar/static/media/hawkeye.4a2b02e903ad8112a542.webp",
+    "static/media/shang-chi.webp": "/disney-hotstar/static/media/shang-chi.a80aafaacf143f2fc371.webp",
+    "static/media/cash.webp": "/disney-hotstar/static/media/cash.64c74f1ba4c82030c842.webp",
+    "static/media/sanak.webp": "/disney-hotstar/static/media/sanak.f22537d5cb7d0bc9fe6e.webp",
+    "static/media/atrangi.webp": "/disney-hotstar/static/media/atrangi.c842ae2b5213138d5955.webp",
+    "static/media/imlie.webp": "/disney-hotstar/static/media/imlie.ab32c994a6b401606bce.webp",
+    "static/media/drama.webp": "/disney-hotstar/static/media/drama.b08f8eabacebd8f82fc6.webp",
+    "static/media/anupama.webp": "/disney-hotstar/static/media/anupama.11a70cf9c03cff25b24e.webp",
+    "static/media/hum2.webp": "/disney-hotstar/static/media/hum2.b185104613a22c3f4351.webp",
+    "static/media/bhuj.webp": "/disney-hotstar/static/media/bhuj.1f6bf43e5d4c60b9821a.webp",
+    "static/media/disney-hotstar-logo-dark.svg": "/disney-hotstar/static/media/disney-hotstar-logo-dark.1d70659bdb59f268b53bec98f08afcad.svg",
+    "static/media/slick.svg": "/disney-hotstar/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/disney-hotstar/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/disney-hotstar/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/kids.svg": "/disney-hotstar/static/media/kids.63ecf865e9e4cd430378b5db3001c593.svg",
+    "static/media/slick.woff": "/disney-hotstar/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/disney-hotstar/index.html",
+    "main.6f8ceb7e.css.map": "/disney-hotstar/static/css/main.6f8ceb7e.css.map",
+    "main.f0289bbb.js.map": "/disney-hotstar/static/js/main.f0289bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f8ceb7e.css",
+    "static/js/main.f0289bbb.js"
+  ]
+}
